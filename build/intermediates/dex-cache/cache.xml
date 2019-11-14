@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-ac69aa69e94e81d9290cb0aac9ac3a3774f024d5.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-815ee4a52821e3108d50e892e80ada154da0f52b.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-257b4f9b9bf439622d5233d42a56a17eea9d37ae.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-56b07ac519677d23edf121baa3d2f656196509cf.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-75b2c243ef7162fa8b49c62ee8799fe6ba358665.jar" />
+    </item>
+    <item
+        jar="/home/soumeet/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-205808f9b719fd148e71879157a540f2b959822c.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-3bf9279b73b7f8e80dd7a5ee4397ab9421f8be38.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-fb81fbce66ace908d8732cde97ab6a44248aeb11.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-0efaebc427184b5bf239fda57ce8a8e2cc5fd161.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-0dd53e16f3a98492a25dde9ba6d97285fea3f3b3.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-8503a51afb8b6e58230ebfaa390fc28c2915879c.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-8f720edbbfebd2839e2ea0c4ef3abb80631642ab.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-4548575d4d68678a0115f6196cb47d84c151919a.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-6e8494993744bd5d9c5a4e4daa89925887c8c866.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-9d849129056dc27e3499725299bb4b34452e7869.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-2437703b395cb155e99e5c3b6815e525eb36890f.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-84bc7e10fcb583a32b20e6a351444a06fe973da1.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-9627b08dba55744143c377f4abd6cd60e519ce7f.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-024168bb4d7f9f282fc760f2405102eb43347d70.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-fdf6d8bc9888bcf4ff6577ba52a6513ebfbf4daf.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-6cfb2495e8b48375088b59b79f7c5a5f429823d6.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-65cf5edfa46c96777b90fed39a52427ae676c405.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-50c3fd3784c6fb476b6605daf2e92fc600c84fbb.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-52901026a4405134924c523f29c8e44a27e8de95.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/classes-c6d7ad334dc1cbb1161ae7b323cfc5a718a33b93.jar" />
+    </item>
+    <item
+        jar="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/mnt/625ADAE75ADAB74F/Soumeet/Nearbyv2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0d751ef15a4c0db3dc69b2c0827408034ae94834.jar" />
+    </item>
+
+</items>

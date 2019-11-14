@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Location Setting">
+        <EditTextPreference
+            android:defaultValue="Kolkata"
+            android:key="et_pref_location"
+            android:summary="Enter a default location"
+            android:title="Default Location"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Search Setting">
+        <EditTextPreference
+            android:defaultValue="1000"
+            android:key="et_pref_radius"
+            android:summary="Enter Search Radius"
+            android:title="Radius"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Terms And Conditions" >
+        <Preference
+            android:key="pref_privacy"
+            android:title="Privacy Policies"
+            android:summary="Respect user expectation of privacy.
+Application has a privacy policy. This application uses GPS for displaying user's location. Your location will not be stored, disclosed or used without prior information. This app will not display user's wereabouts on public page, unless user wants to.
+The user should know this before they authenticate and agree to use this app.">
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>
