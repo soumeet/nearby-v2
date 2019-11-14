@@ -38,7 +38,7 @@ public class ResultActivity extends ActionBarActivity implements AdapterView.OnI
     private String LOCATION = "location=22.5667,88.3667";
     private String RADIUS = "&radius=1000";
     private static String TYPE = "&type=atm";
-    private String BROWSER_KEY = "&key=AIzaSyDZ8LlDjowb9TsVFESb_z8mcgLRAvR-z3c";
+    private String BROWSER_KEY = "YOUR_API_KEY";
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
